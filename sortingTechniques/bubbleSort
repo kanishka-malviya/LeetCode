@@ -1,6 +1,6 @@
 // The elements start getting sorted from the back with every iteration. The sorted elements bubble to the back.
 function bubbleSort(array) {
-    for( let i = 0; i < array.length-1; i++) {
+    for( let i = 0; i < array.length-1; i++) { //ith loop basically is to reduce the jth loop's range with every iteration.
         for (let j = 0; j < array.length - 1 - i; j++) {
             if (array[j] > array[j+1]) {
                 let temp = array[j];
