@@ -1,0 +1,17 @@
+function insertionSort(arr, i) {
+    let j = i;
+
+    if (i < arr.length){
+        while (j >= 1 && arr[j - 1] > arr[j]) {
+            let temp = arr[j - 1];
+            arr[j - 1] = arr[j];
+            arr[j] = temp;
+            j--;
+        }    
+        insertionSort(arr, i+1);
+    }
+
+    return arr;
+}
+
+console.log(insertionSort([6, 3, 2, 9, 8, 1], 1));
