@@ -1,0 +1,24 @@
+function quickSort(arr) {
+    
+    if(arr.length > 1) {
+        let pivot = arr[0];
+        let left = [];
+        let right = [];
+
+        for (let i = 1; i < arr.length; i++) {
+            if (arr[i] < pivot) {
+                left.push(arr[i]);
+            } else {
+                right.push(arr[i]);
+            }
+        }
+
+        return [...quickSort(left), pivot, ...quickSort(right)];
+    } else {
+        return arr;
+    }
+}
+
+let array = [3, 6, 8, 1, 9, 2, 5];
+let result = quickSort(array);
+console.log(JSON.stringify(result));
