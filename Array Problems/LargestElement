@@ -1,0 +1,14 @@
+function largestElement(arr) {
+    let max = 0;
+
+    for (let i = 1; i <= arr.length - 1; i++) {
+        if (arr[max] < arr[i]) {
+            max = i;
+        }
+    }
+
+    return arr[max];
+
+}
+
+console.log(largestElement([2, 8, 4, 1]));
