@@ -1,0 +1,6 @@
+function x(array, x) {
+    let end = array.length;
+    return [...array.slice(x, end), ...array.slice(0, x)];
+}
+
+console.log(x([2, 3, 4, 5, 6, 7], 4))
