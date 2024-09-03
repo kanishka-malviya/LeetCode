@@ -6,6 +6,7 @@ Contains soultions to LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -14,6 +15,7 @@ Contains soultions to LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -35,4 +37,20 @@ Contains soultions to LeetCode problems
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0948-sort-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
