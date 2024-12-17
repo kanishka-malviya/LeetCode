@@ -1,0 +1,35 @@
+function bRecursive(arr, low, high, target) {
+    mid = Math.floor((low+high)/2);
+
+    if (low > high) {
+        return;
+    }
+
+    if (arr[mid] === target) {
+        return mid;
+    } else if(target > arr[mid]) {
+        return bRecursive(arr, mid + 1, high, target);
+    } else if(target < arr[mid]) {
+        return bRecursive(arr, low, mid - 1, target);
+    } else {
+        return 0;
+    }
+}
+
+function binarySearchIterative(arr, target) {
+    let low = arr[0];
+    let high = arr[arr.length-1];
+    while(low < high) {
+        let mid = Math.floor((low + high)/2);
+        if (target === arr[mid]) return mid;
+        else if (target > arr[mid]) low = mid + 1;
+        else high = mid - 1;
+    }
+    return -1;
+}
+    
+let arr = [2, 3, 5, 7, 9, 11];
+let ans = bRecursive(arr, 0, 5, 9);
+let ans2 = binarySearchIterative(arr, target);
+console.log(ans);
+console.log(ans2);
