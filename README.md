@@ -58,4 +58,12 @@ Contains soultions to LeetCode problems
 | ------- |
 | [0136-single-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kanishka-malviya/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kanishka-malviya/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
