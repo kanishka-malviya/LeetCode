@@ -6,6 +6,7 @@ Contains soultions to LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ Contains soultions to LeetCode problems
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kanishka-malviya/LeetCode/tree/master/0704-binary-search) |
