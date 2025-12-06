@@ -10,6 +10,7 @@ Contains soultions to LeetCode problems
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/kanishka-malviya/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/kanishka-malviya/LeetCode/tree/master/0704-binary-search) |
@@ -53,6 +54,7 @@ Contains soultions to LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -84,6 +86,7 @@ Contains soultions to LeetCode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kanishka-malviya/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kanishka-malviya/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kanishka-malviya/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
