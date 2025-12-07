@@ -6,6 +6,7 @@ Contains soultions to LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kanishka-malviya/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -86,6 +87,7 @@ Contains soultions to LeetCode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kanishka-malviya/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kanishka-malviya/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kanishka-malviya/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -146,4 +148,8 @@ Contains soultions to LeetCode problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kanishka-malviya/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kanishka-malviya/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
