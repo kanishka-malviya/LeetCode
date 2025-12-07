@@ -9,6 +9,7 @@ Contains soultions to LeetCode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kanishka-malviya/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kanishka-malviya/LeetCode/tree/master/0198-house-robber) |
@@ -101,6 +102,7 @@ Contains soultions to LeetCode problems
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kanishka-malviya/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/kanishka-malviya/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -140,4 +142,8 @@ Contains soultions to LeetCode problems
 | [0100-same-tree](https://github.com/kanishka-malviya/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kanishka-malviya/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kanishka-malviya/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kanishka-malviya/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
