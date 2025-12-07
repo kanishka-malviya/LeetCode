@@ -7,6 +7,7 @@ Contains soultions to LeetCode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kanishka-malviya/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kanishka-malviya/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -27,6 +28,7 @@ Contains soultions to LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kanishka-malviya/LeetCode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -88,6 +90,7 @@ Contains soultions to LeetCode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kanishka-malviya/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kanishka-malviya/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kanishka-malviya/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kanishka-malviya/LeetCode/tree/master/0141-linked-list-cycle) |
