@@ -2,43 +2,41 @@
  * @param {number[]} num
  * @return {number[][]}
  */
-function threeSum(num) {
-    let nums = num.sort((a,b) => a - b);
+function threeSum(arr) {
+    let nums = arr.sort((a,b)=>a-b);
     let n = nums.length;
-    let ans = [];
+  let temp = [];
 
-    for (let i = 0; i < n; i++) {
-        let left = i + 1;
-        let right = n - 1;
-        
-        if (i > 0 && nums[i] === nums[i - 1]) continue;
-        
-        while (left < right) {
-            let sum = nums[i] + nums[left] + nums[right];
-
-            if (sum === 0) {
-                ans.push([nums[i], nums[left], nums[right]])
-                left++;
-                right--;
-
-                while(left<right && nums[left]===nums[left-1]) {
-                    left++;
-                }
-
-                while(left<right && nums[right]===nums[right+1]) {
-                    right--;
-                }
-            }
-
-            if (sum < 0) {
-                left++;
-            }
-
-            if (sum > 0) {
-                right--;
-            }
-        }
+  for (let i = 0; i < n; i++) {
+    let j = i + 1;
+    let k = n - 1;
+    
+    if(i > 0 && nums[i] === nums[i-1]) {
+      continue;
     }
-
-    return ans;
+    
+    while (j < k) {
+      let sum = nums[i] + nums[j] + nums[k];
+      
+      if (sum < 0) {
+        j++;
+      } else if (sum > 0) {
+        k--;
+      } else {
+        temp.push([nums[i], nums[j], nums[k]]);
+        j++;
+        k--;
+        
+        while(nums[j] === nums[j-1]) {
+          j++;
+        }
+        
+        while(nums[k] === nums[k+1]) {
+          k--;
+        }
+      }
+    }
+  }
+  
+  return temp;
 };
