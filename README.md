@@ -60,6 +60,7 @@ Contains soultions to LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
