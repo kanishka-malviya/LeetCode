@@ -54,6 +54,7 @@ Contains soultions to LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kanishka-malviya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/kanishka-malviya/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kanishka-malviya/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@ Contains soultions to LeetCode problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/kanishka-malviya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/kanishka-malviya/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kanishka-malviya/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
@@ -156,4 +158,8 @@ Contains soultions to LeetCode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kanishka-malviya/LeetCode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/kanishka-malviya/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
